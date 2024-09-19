@@ -6,7 +6,7 @@ Material for the geospatial analysis course for students of the master's degree 
 
 
 ### Slides
-- [Presentation of the course]()
+- [Presentation of the course](https://docs.google.com/presentation/d/1AWuOK7_o3tprFqhYyh_Lm8j0sw0rXXUyMUBedKL9mxQ/pub?start=false&loop=false&delayms=3000)
 - [Geographical Information Systems concepts
 ]()
 
