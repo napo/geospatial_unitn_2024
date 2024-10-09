@@ -6,3 +6,4 @@ xlrd==2.0.1
 dms2dec==0.1
 alphashape==1.3.1
 requests==2.32.3
+geopy==2.4.1
