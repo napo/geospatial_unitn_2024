@@ -1,0 +1,9 @@
+mapclassify==2.8.1
+matplotlib==3.7.1
+xlrd==2.0.1
+requests==2.32.3
+geopy==2.4.1
+osmnx==1.9.4
+polyline==2.0.2
+gpxpy==1.6.2
+
