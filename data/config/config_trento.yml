@@ -35,7 +35,7 @@ graphhopper:
 #       u_turn_costs: 60
      custom_model_files: [car.json]
 
-    - name: foot
+#    - name: foot
 #      custom_model_files: [foot.json, foot_elevation.json]
 #
 #    - name: bike
