@@ -79,8 +79,7 @@ graphhopper:
   # More are: surface,smoothness,max_width,max_height,max_weight,max_weight_except,hgv,max_axle_load,max_length,
   #           hazmat,hazmat_tunnel,hazmat_water,lanes,osm_way_id,toll,track_type,mtb_rating,hike_rating,horse_rating,
   #           country,curvature,average_slope,max_slope,car_temporal_access,bike_temporal_access,foot_temporal_access
-  graph.encoded_values: car_access, car_average_speed
-
+  graph.encoded_values: car_access, car_average_speed, foot_access, hike_rating, foot_priority, foot_average_speed, average_slope
   #### Speed, hybrid and flexible mode ####
 
   # To make CH preparation faster for multiple profiles you can increase the default threads if you have enough RAM.
@@ -187,6 +186,7 @@ graphhopper:
   # Another typical example is excluding 'motorway', 'trunk' and maybe 'primary' highways for bicycle or pedestrian routing.
   # import.osm.ignored_highways: footway,cycleway,path,pedestrian,steps # typically useful for motorized-only routing
   # import.osm.ignored_highways: motorway,trunk # typically useful for non-motorized routing
+  import.osm.ignored_highways: via_ferrata
 
   # configure the memory access, use RAM_STORE for well equipped servers (default and recommended)
   graph.dataaccess.default_type: RAM_STORE
