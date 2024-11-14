@@ -1,0 +1,6 @@
+geopandas==1.0.1
+mapclassify==2.8.1
+matplotlib==3.7.1
+contextily==1.6.0
+seaborn==0.13.2
+scikit-learn==1.4.2 
