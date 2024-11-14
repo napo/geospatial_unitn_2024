@@ -3,13 +3,14 @@ The map is not the territory
 
 ![](https://imgs.xkcd.com/comics/heatmap_2x.png)
 
-[30DayMapChallenge](https://twitter.com/hashtag/30DayMapChallenge)
+[30DayMapChallenge](https://x.com/hashtag/30DayMapChallenge)
 
 
 # Choropleth Map
 ## data
-[downoload ISTAT data](https://github.com/napo/geospatial_datascience_unitn_2023/raw/main/data/istat/istat_administrative_units_2023.gpkg)
-[Indicatori Istat](https://www.istat.it/it/archivio/16777)
+[download ISTAT data](https://github.com/napo/geospatial_unitn_2024/raw/refs/heads/main/data/istat_administrative_units_generalized_2024.gpkg)
+<br/>
+[Istat Indicators](https://www.istat.it/it/archivio/16777)
 
 ![](https://raw.githubusercontent.com/napo/geospatial_course_unitn/master/images/election_data_usa.gif)
 
